@@ -66,8 +66,8 @@ export default function Home() {
                 </span>
               </motion.div>
 
-              <p className="text-sm sm:text-base md:text-lg text-[#666666] dark:text-[#888888] max-w-lg">
-             I create user-friendly web applications using modern technologies. I&apos;m{" "} passionate about writing clean code and crafting seamless user experiences. I&apos;m{" "} also always eager to explore and learn new technologies.
+<p className="text-sm sm:text-base md:text-lg text-[#666666] dark:text-[#888888] max-w-lg">
+             I create user-friendly web applications using modern technologies. I&#39;m{" "} passionate about writing clean code and crafting seamless user experiences. I&#39;m{" "} also always eager to explore and learn new technologies.
               </p>
             </div>
 
