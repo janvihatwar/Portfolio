@@ -10,8 +10,6 @@ import {
   FaServer,
   FaGithub,
   FaDocker,
-  FaNpm,
-  FaGitAlt,
 } from "react-icons/fa";
 import {
   SiNextdotjs,
