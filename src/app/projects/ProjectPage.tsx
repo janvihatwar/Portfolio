@@ -38,10 +38,6 @@ const projects = [
         <div className="space-y-8 sm:space-y-12 md:space-y-16">
           {/* Projects Section */}
           <div>
-            <h3 className="text-xl sm:text-2xl font-bold mb-4 sm:mb-6 text-[#1a1a1a] dark:text-white">
-              Projects
-              <div className="h-0.5 w-12 sm:w-16 md:w-20 bg-[#1a1a1a] dark:bg-white mt-1.5 sm:mt-2 rounded-full" />
-            </h3>
 
             <div className="space-y-6 sm:space-y-8">
               {projects.map((project, index) => (

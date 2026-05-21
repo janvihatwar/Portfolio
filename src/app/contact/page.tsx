@@ -5,7 +5,7 @@ import { FiMail, FiGithub, FiLinkedin, FiTwitter } from "react-icons/fi";
 
 export default function Contact() {
   return (
-    <main className="min-h-screen bg-[#fafafa] dark:bg-[#111111] px-3 sm:px-4 md:px-6 lg:px-8 pt-20 sm:pt-24 md:pt-32 pb-12 sm:pb-16 md:pb-20">
+    <main className="min-h-screen bg-[#fafafa] dark:bg-[#111111] px-3 sm:px-4 md:px-6 lg:px-8 pt-10 sm:pt-12 md:pt-14 pb-12 sm:pb-16 md:pb-20">
       <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}

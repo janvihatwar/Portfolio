@@ -17,7 +17,7 @@ export default function Navbar() {
           
         </Link>
         
-        <div className="space-x-3 sm:space-x-4 md:space-x-6 text-sm sm:text-base">
+        {/* <div className="space-x-3 sm:space-x-4 md:space-x-6 text-sm sm:text-base">
           <Link 
             href="/" 
             className="text-[#1a1a1a] dark:text-white hover:text-[#0066ff] dark:hover:text-[#0066ff] transition-colors duration-200"
@@ -42,7 +42,7 @@ export default function Navbar() {
           >
             Contact
           </Link>
-        </div>
+        </div> */}
       </div>
     </nav>
   )
