@@ -9,7 +9,7 @@ import TechPage from "./tech/page"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Janvi&apos;s Portfolio",
+  title: "Janvi's Portfolio",
   description: "Personal portfolio showcasing my work and skills",
 }
 

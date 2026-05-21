@@ -176,11 +176,11 @@ export default function Contact() {
                       href: "https://www.linkedin.com/in/janvihatwar/",
                       label: "LinkedIn",
                     },
-                    {
-                      icon: FiTwitter,
-                      href: "https://x.com/JanviHatwar14",
-                      label: "Twitter",
-                    },
+                    // {
+                    //   icon: FiTwitter,
+                    //   href: "https://x.com/JanviHatwar14",
+                    //   label: "Twitter",
+                    // },
                   ].map((social) => (
                     <motion.div
                       key={social.label}
